@@ -1,0 +1,14 @@
+? 2.3. создать 5 переменных по 1 букве и вывести B-I-N-G-O, где каждая буква будет переменной
+start
+new B string
+new I string
+new N string
+new G string
+new O string
+set B "B"
+set I "I"
+set N "N"
+set G "G"
+set O "O"
+log string B >> "-" >> I >> "-" >> N >> "-" >> G >> "-" >> O
+finish
