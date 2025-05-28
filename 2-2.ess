@@ -1,0 +1,10 @@
+? 2.2. сделать вывод любой большой буквы символами в несколько строк
+start
+log string "  ***  "
+log string " *   * "
+log string " *   * "
+log string " ***** "
+log string " *   * "
+log string " *   * "
+log string " *   * "
+finish
