@@ -1,0 +1,6 @@
+? 2.1. программа с приветствием
+start
+new greeting string
+set greeting "Привет, мир!"
+log string greeting
+finish
